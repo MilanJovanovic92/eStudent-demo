@@ -1,0 +1,45 @@
+{
+    "mainPage": {
+        "mainNavList": ".hfe-menu-item",
+        "newsTable": ".elementor-widget-container h5 span",
+        "newsTableItemList": ".eael-entry-thumbnail",
+        "studentNav": "#menu-studenti li a",
+        "loadMoreButton": ".eael-load-more-button"
+    },
+    "eStudentLogin": {
+        "usernameInput": "#username",
+        "passwordInput": "#password",
+        "submitButton": "#btnSubmit",
+        "loginBox": ".login-box-plain div",
+        "errorMessage": ".alert.alert-block.alert-danger.fade.in p"
+    },
+    "eStudent": {
+        "homePage": ".mmenu",
+        "pageName": ".name",
+        "profileBox": ".profile-widget.text-center",
+        "studentName": ".text-center.m-b-10",
+        "index": "li:nth-child(1) p:nth-child(1)",
+        "indexNumber": "ul:nth-child(4) > li:nth-child(1) font:nth-child(2)",
+        "jibs": "li:nth-child(2) p:nth-child(1)",
+        "jibsNumber": "ul:nth-child(4) > li:nth-child(2) > font:nth-child(2)",
+        "examSchedule": "div[id='sidebar-menu'] li:nth-child(6)",
+        "consultations": "div[id='sidebar-menu'] li:nth-child(8)",
+        "listOfSubjects": "tbody tr",
+        "allSubjectsButton": "#rasporedSvi",
+        "examDate": "ul.nav.nav-tabs.navtab-bg li.active > a.active",
+        "professorList": "tbody tr td:nth-child(1)",
+        "socialMediaList": ".button-list.p-20 a i",
+        "profileButton": ".dropdown-toggle.profile.waves-light.waves-effect",
+        "logoutButton": "div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > ul:nth-child(3) > li:nth-child(2) > ul:nth-child(3) > li:nth-child(2) > a:nth-child(1)"
+    },
+    "paymentSlip": {
+        "paymentButton": "div[id='sidebar-menu'] li:nth-child(10)",
+        "slipHeaderList": ".col-lg-12 h4",
+        "slipList": ".uplatnica",
+        "fullName": "div:nth-child(6) > div:nth-child(1) > table:nth-child(1) > tbody:nth-child(1) > tr:nth-child(1) > td:nth-child(1) > div:nth-child(1) > div:nth-child(2)",
+        "addres": "div:nth-child(6) > div:nth-child(1) > table:nth-child(1) > tbody:nth-child(1) > tr:nth-child(1) > td:nth-child(1) > div:nth-child(1) > div:nth-child(3)",
+        "firstCallNumber": "div:nth-child(6) > div:nth-child(1) > table:nth-child(1) > tbody:nth-child(1) > tr:nth-child(1) > td:nth-child(1) > div:nth-child(1) > div:nth-child(12)",
+        "secondCallNumber": "div:nth-child(8) > div:nth-child(1) > table:nth-child(1) > tbody:nth-child(1) > tr:nth-child(1) > td:nth-child(1) > div:nth-child(1) > div:nth-child(12)"
+    }
+
+}

@@ -1,0 +1,7 @@
+{
+    "authentication": "/authentication/login",
+    "eStudent": "/student/pocetna",
+    "exams": "/raspored/raspored-ispita",
+    "payment": "/eprijava/postupak-prijave",
+    "consultations": "/raspored/konsultacije"
+}

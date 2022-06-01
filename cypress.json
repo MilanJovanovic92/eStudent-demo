@@ -1,0 +1,6 @@
+{ 
+    "chromeWebSecurity": false,
+    "baseUrl": "http://www.tf.ni.ac.rs/",
+    "viewportWidth": 1920,
+    "viewportHeight": 1080
+}
